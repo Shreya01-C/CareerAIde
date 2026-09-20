@@ -37,10 +37,10 @@ CareerAIde is an **AI-powered resume builder and analyzer** that helps users cre
 
 ## Tech Stack
 
-**Frontend:** React.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB
-**AI Integration:** Google Gemini API
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **AI Integration:** Google Gemini API
 
 ---
 
