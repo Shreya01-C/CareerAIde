@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import Resume from '../models/Resume.js';
-
 export const createResume = async (req, res) => {
     try {
         const { title } = req.body;
