@@ -59,21 +59,21 @@ CareerAIde is an **AI-powered resume builder and analyzer** that helps users cre
 
 ### Landing Page
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0a030ee-8d68-4552-98f1-ff327ff3a321" width="700"/>
+  <img src="https://github.com/user-attachments/assets/61a7a127-d028-4219-b079-9e8dc1419915" width="700"/>
 </p>
 
 ---
 
 ### Resume Builder
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a90b1a0-cdb7-4220-b5be-97f6f7f9a707" width="700"/>
+  <img src="https://github.com/user-attachments/assets/5c6e6a54-94ca-4869-bb4e-83006436392e" width="700"/>
 </p>
 
 ---
 
 ### AI Resume Analysis
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7a315c0c-e7a8-4c9b-b406-5ed939067cea" width="700"/>
+  <img src="https://github.com/user-attachments/assets/bcb0154f-8e55-43d5-953e-0cab49964329"/>
 </p>
 
 ---
