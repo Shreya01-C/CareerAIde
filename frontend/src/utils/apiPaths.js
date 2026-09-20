@@ -1,4 +1,4 @@
-export const BASE_URL = "https://resumexpert-backend-b41y.onrender.com";
+export const BASE_URL = "https://careeraide.onrender.com/";
 // export const BASE_URL = "http://localhost:4000";
 
 
