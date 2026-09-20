@@ -1,31 +1,29 @@
-# 🚀 ResumeXpert
+# 🚀 CareerAide
 
-**ResumeXpert** is a modern, full-stack resume builder web application that allows users to register, create, and download personalized resumes online. The app is split into two parts:
-
-- 🌐 Frontend (React/Vite)
-- 🔧 Backend (Node.js + Express + MongoDB)
+**CareerAIde** is a modern, full-stack resume builder web application that allows users to register, create, and download personalized resumes online.
 
 ---
 
 ## 🧱 Project Structure
 
-ResumeXpert/
+```
+CareerAIde/
 ├── frontend/ # React frontend (Vite)
 ├── backend/ # Node.js/Express API
 └── README.md
-
+```
 
 ---
 
 ## ✨ Features
 
-### 👨‍💻 Frontend
+###  Frontend
 - Responsive resume builder UI
 - Custom resume sections: Education, Experience, Projects, etc.
 - PDF download using `html2pdf.js`
 - Deployed on **Vercel**
 
-### 🔐 Backend
+###  Backend
 - JWT-based Authentication (Register/Login)
 - Resume management APIs (CRUD)
 - File upload support
@@ -34,16 +32,16 @@ ResumeXpert/
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 - **Frontend**: [https://resume-xpertfrontend.vercel.app](https://resume-xpertfrontend.vercel.app)
-- **Backend API**: [https://resume-xpert-api.onrender.com](https://resume-xpert-api.onrender.com)
+- **Backend**: [https://resume-xpert-api.onrender.com](https://resume-xpert-api.onrender.com)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-| Layer    | Technology                          |
+| Layer    | Technology                           |
 |----------|--------------------------------------|
 | Frontend | React (Vite), Tailwind CSS           |
 | Backend  | Node.js, Express.js, MongoDB         |
@@ -53,15 +51,13 @@ ResumeXpert/
 
 ---
 
-## 📦 Installation (Local Setup)
+##  Installation (Local Setup)
 
-### 🧩 Prerequisites
-- Node.js & npm
-- MongoDB
-
-### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/Anuragg290/ResumeXpert.git
-cd ResumeXpert
+git clone https://github.com/Shreya01-C/CareerAIde.git
+cd CareerAIde
+npm install
+npm run dev
+```
 
-
+## Thanks for reading!
