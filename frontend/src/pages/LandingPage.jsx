@@ -312,9 +312,7 @@ const LandingPage = () => {
       <footer className={landingPageStyles.footer}>
         <div className={landingPageStyles.footerContainer}>
           <p className={landingPageStyles.footerText}>
-            Crafted  <span className={landingPageStyles.footerHeart}></span> by{' '}
-            <a href="https://portfolio-4vlx.vercel.app/" target="_blank" className={landingPageStyles.footerLink}>
-            Shreya
+            Crafted  <span className={landingPageStyles.footerHeart}></span> by Shreya
             </a>
           </p>
         </div>
