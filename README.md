@@ -4,7 +4,7 @@ CareerAIde is an **AI-powered resume builder and analyzer** that helps users cre
 ---
 ## Live Demo
 
-[Launch CareerAIde](https://career-a-ide.vercel.app/)
+[Launch CareerAIde](https://career-a-ide-web.vercel.app/)
 
 ---
 
