@@ -313,7 +313,6 @@ const LandingPage = () => {
         <div className={landingPageStyles.footerContainer}>
           <p className={landingPageStyles.footerText}>
             Crafted  <span className={landingPageStyles.footerHeart}></span> by Shreya
-            </a>
           </p>
         </div>
       </footer>
