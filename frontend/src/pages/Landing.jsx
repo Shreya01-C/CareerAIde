@@ -183,7 +183,7 @@ export default function Landing() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-14">
             <span className="chip bg-brand-green/20 text-chocolate mb-4">How it works</span>
-            <h2 className="font-heading font-bold text-4xl sm:text-5xl text-chocolate">Three steps to done</h2>
+            <h2 className="font-heading font-bold text-4xl sm:text-5xl text-chocolate">Three steps ➟ Done!</h2>
           </div>
           <div className="grid md:grid-cols-3 gap-6 stagger">
             {steps.map((s) => (
