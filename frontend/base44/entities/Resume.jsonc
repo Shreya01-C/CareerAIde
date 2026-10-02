@@ -1,0 +1,218 @@
+{
+  "name": "Resume",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "default": "Untitled Resume"
+    },
+    "template": {
+      "type": "string",
+      "default": "01"
+    },
+    "thumbnailLink": {
+      "type": "string",
+      "default": ""
+    },
+    "completion": {
+      "type": "number",
+      "default": 0
+    },
+    "profileInfo": {
+      "type": "object",
+      "properties": {
+        "fullName": {
+          "type": "string",
+          "default": ""
+        },
+        "designation": {
+          "type": "string",
+          "default": ""
+        },
+        "summary": {
+          "type": "string",
+          "default": ""
+        },
+        "previewUrl": {
+          "type": "string",
+          "default": ""
+        }
+      },
+      "default": {}
+    },
+    "contactInfo": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "default": ""
+        },
+        "phone": {
+          "type": "string",
+          "default": ""
+        },
+        "location": {
+          "type": "string",
+          "default": ""
+        },
+        "linkedin": {
+          "type": "string",
+          "default": ""
+        },
+        "github": {
+          "type": "string",
+          "default": ""
+        },
+        "website": {
+          "type": "string",
+          "default": ""
+        }
+      },
+      "default": {}
+    },
+    "workExperience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "company": {
+            "type": "string",
+            "default": ""
+          },
+          "role": {
+            "type": "string",
+            "default": ""
+          },
+          "startDate": {
+            "type": "string",
+            "default": ""
+          },
+          "endDate": {
+            "type": "string",
+            "default": ""
+          },
+          "description": {
+            "type": "string",
+            "default": ""
+          }
+        }
+      },
+      "default": []
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "degree": {
+            "type": "string",
+            "default": ""
+          },
+          "institution": {
+            "type": "string",
+            "default": ""
+          },
+          "startDate": {
+            "type": "string",
+            "default": ""
+          },
+          "endDate": {
+            "type": "string",
+            "default": ""
+          }
+        }
+      },
+      "default": []
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "progress": {
+            "type": "number",
+            "default": 0
+          }
+        }
+      },
+      "default": []
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": ""
+          },
+          "description": {
+            "type": "string",
+            "default": ""
+          },
+          "github": {
+            "type": "string",
+            "default": ""
+          },
+          "liveDemo": {
+            "type": "string",
+            "default": ""
+          }
+        }
+      },
+      "default": []
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "default": ""
+          },
+          "issuer": {
+            "type": "string",
+            "default": ""
+          },
+          "year": {
+            "type": "string",
+            "default": ""
+          }
+        }
+      },
+      "default": []
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "default": ""
+          },
+          "progress": {
+            "type": "number",
+            "default": 0
+          }
+        }
+      },
+      "default": []
+    },
+    "interests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    }
+  },
+  "required": [
+    "title"
+  ]
+}
